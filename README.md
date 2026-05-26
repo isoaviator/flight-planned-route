@@ -29,9 +29,7 @@ pip install fastapi uvicorn
 uvicorn main:app --reload
 
 4. Leave this window open  
-   You should see something like:
 
-Running on http://127.0.0.1:8000
 
 ---
 
